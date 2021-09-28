@@ -2,4 +2,4 @@ build:
   docker:
       gitpy: Dockerfile
 run:
-  gitpy: python3 -m gitpy
+  gitpy: python3 -m gitsampleX
