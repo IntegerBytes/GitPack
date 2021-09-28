@@ -15,4 +15,4 @@ RUN pip3 uninstall av -y && pip3 install av --no-binary av
 
 # start the bot
 CMD ["python3", "-m", "gitpy"]
-EXPOSE 3000
+#EXPOSE 3000
