@@ -14,5 +14,5 @@ RUN pip3 install --no-cache-dir -r git.txt
 RUN pip3 uninstall av -y && pip3 install av --no-binary av
 
 # start the bot
-CMD ["python3", "-m", "gitpy"]
+CMD ["python3", "-m", "gitsampleX"]
 #EXPOSE 3000
